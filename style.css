@@ -2,10 +2,19 @@
     font-family: "Nunito Sans", sans-serif;
 }
 
+body {
+    margin: 0px 150px;
+}
+
 section {
     border: solid black 1px;
 }
 
 .heading {
     font-weight: 700;
+}
+
+.subheading {
+    margin-top: 25px;
+    margin-left: 10px;
 }

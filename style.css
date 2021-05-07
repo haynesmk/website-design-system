@@ -12,6 +12,11 @@ section {
     margin-bottom: 10px;
 }
 
+li {
+    font-family: "Poppins";
+    font-size: 16px;
+}
+
 .heading {
     font-weight: 700;
 }
@@ -76,10 +81,18 @@ section {
     background-color: #efd9ca;
 }
 
-div#source-code-pro {
-    font-family: "Source Code Pro";
+#text-style-h1 {
+    font-weight: 700;
+    font-size: 36px;
 }
 
-div#poppins {
+#text-style-subheading {
+    font-weight: 500;
+    font-size: 24px;
     font-family: "Poppins";
+}
+
+#text-style-paragraph {
+    font-weight: 400;
+    font-size: 16px;
 }

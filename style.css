@@ -9,6 +9,7 @@ body {
 section {
     border: solid #A2A2A6 2px;
     padding: 10px;
+    padding-right: 0px;
     margin-bottom: 10px;
 }
 
@@ -28,7 +29,7 @@ li {
 .color {
     display: inline-block;
     position: relative;
-    width: 32%;
+    width: 33%;
     margin: 20px 0px;
     height: 100px;
 }

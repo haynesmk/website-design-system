@@ -1,0 +1,11 @@
+* {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+section {
+    border: solid black 1px;
+}
+
+.heading {
+    font-weight: 700;
+}

@@ -28,8 +28,8 @@ section {
     height: 100px;
 }
 
-#colors {
-
+.label {
+    text-align: center;
 }
 
 #cool-blue {

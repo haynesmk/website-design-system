@@ -3,11 +3,13 @@
 }
 
 body {
-    margin: 0px 150px;
+    margin: 0px 142px;
 }
 
 section {
-    border: solid black 1px;
+    border: solid #A2A2A6 2px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .heading {
@@ -15,7 +17,18 @@ section {
 }
 
 .subheading {
-    margin: 25px 10px;
+    margin: 20px 0px;
+}
+
+.color {
+    display: inline-block;
+    position: relative;
+    width: 32%;
+    margin: 20px 0px;
+    height: 100px;
+}
+
+#colors {
 
 }
 
